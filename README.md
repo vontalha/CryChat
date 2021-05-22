@@ -1,0 +1,2 @@
+# CryChat
+Encrypted Chat application
